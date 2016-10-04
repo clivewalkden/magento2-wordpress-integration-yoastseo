@@ -3,7 +3,7 @@
     "description": "Magento WordPress Yoast SEO Integration",
     "require": {
         "php": "~5.5.0|~5.6.0|~7.0.0",
-        "fishpig/wordpress": "dev-master"
+        "fishpig/wordpress": "~1.0.0"
     },
     "type": "magento2-module",
     "license": "proprietary",
